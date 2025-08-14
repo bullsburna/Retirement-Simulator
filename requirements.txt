@@ -1,0 +1,6 @@
+yfinance
+fredapi
+pandas
+numpy
+xlsxwriter
+python-dateutil
